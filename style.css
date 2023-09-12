@@ -7,8 +7,19 @@
 h1{
 
     font-size:90px;
+    border:10px rgb(1, 65, 1) solid;
+    padding:10px;
+    width: 700px;
 }
 
 img{
     border: 5px solid rgb(1, 65, 1);
+}
+
+ul{
+    border:6px rgb(1, 65, 1) solid;
+    width:600px;
+    text-align:center;
+    padding:10px;
+    list-style-type:none;
 }
